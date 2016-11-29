@@ -1,0 +1,124 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /private/tmp/log4jtest/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+3 items
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> /private/tmp/log4jtest/target/scala-2.11/classes/log4jtest/Log4j$.class
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> /private/tmp/log4jtest/target/scala-2.11/classes/log4jtest/Log4j$delayedInit$body.class
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> /private/tmp/log4jtest/target/scala-2.11/classes/log4jtest/Log4j.class
+binary dependencies:
+4 items
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> /Users/nse/.ivy2/cache/com.typesafe.scala-logging/scala-logging_2.11/jars/scala-logging_2.11-3.1.0.jar
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> /Users/nse/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> /Users/nse/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.10.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+3 items
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> log4jtest.Log4j
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> log4jtest.Log4j$
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> log4jtest.Log4j$delayedInit$body
+used names:
+36 items
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> <init>
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> <repeated>
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> ?0
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> Any
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> App
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> Boolean
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> Class
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> Exception
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> Log4j
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> Logger
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> LoggerFactory
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> Nothing
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> Object
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> Predef
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> String
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> StringContext
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> Unit
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> apply
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> com
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> debug
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> e
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> getClass
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> getLogger
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> getMessage
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> isDebugEnabled
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> log4jtest
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> logger
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> org
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> package
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> println
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> s
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> scala
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> scalalogging
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> slf4j
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> typesafe
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> underlying
+product stamps:
+3 items
+/private/tmp/log4jtest/target/scala-2.11/classes/log4jtest/Log4j$.class -> lastModified(1480413400000)
+/private/tmp/log4jtest/target/scala-2.11/classes/log4jtest/Log4j$delayedInit$body.class -> lastModified(1480413400000)
+/private/tmp/log4jtest/target/scala-2.11/classes/log4jtest/Log4j.class -> lastModified(1480413400000)
+source stamps:
+1 items
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> hash(b7810022144ea5dbabc0031daf813c6d13502c42)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/nse/.ivy2/cache/com.typesafe.scala-logging/scala-logging_2.11/jars/scala-logging_2.11-3.1.0.jar -> lastModified(1407940736000)
+/Users/nse/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/Users/nse/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.10.jar -> lastModified(1420575066000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/nse/.ivy2/cache/com.typesafe.scala-logging/scala-logging_2.11/jars/scala-logging_2.11-3.1.0.jar -> com.typesafe.scalalogging.Logger$
+/Users/nse/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.App
+/Users/nse/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.10.jar -> org.slf4j.LoggerFactory
+internal apis:
+1 items
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwzROFtwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwVzpXeHQABm5vdGlmeXNxAH4ADH+0l2l0AAR3YWl0c3EAfgAMXr/CKXQADSRhc0luc3RhbmNlT2ZzcQB+AAxAR/02dAAGbG9nZ2Vyc3EAfgAMHHvTPXQABmVxdWFsc3NxAH4ADNFwr6h0AAxhc0luc3RhbmNlT2ZzcQB+AAzzV20mdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAyEI0lQdAAMc3luY2hyb25pemVkc3EAfgAMVakCsnQADSRpc0luc3RhbmNlT2ZzcQB+AAwpGEo4dAAEbWFpbnNxAH4ADLxKY310AAlub3RpZnlBbGxzcQB+AAyDUZrRdAAMaXNJbnN0YW5jZU9mc3EAfgAMKB0E5XQAAj09c3EAfgAMdJUEzXQABWNsb25lc3EAfgAM+iR9xHQABiRpbml0JHNxAH4ADK8DSp50AAh0b1N0cmluZ3NxAH4ADGex2Vl0AARhcmdzc3EAfgAMxvroJnQAAiE9c3EAfgAMbR1ze3QACGdldENsYXNzc3EAfgAMoF2u2HQAAm5lc3EAfgAMr8ISEHQAAmVxc3EAfgAMsf3wcnQAC2RlbGF5ZWRJbml0c3EAfgAMM7h/n3QAAiMjc3EAfgAMPtqU1XQACGZpbmFsaXplc3EAfgAM9iwNGHQACGhhc2hDb2Rlc3EAfgAMfBA6cHQABUxvZzRqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAD2xvZzRqdGVzdC5Mb2c0anVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAEHNjYWxhLmRlcHJlY2F0ZWRzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGpzcQB+AGV1cQB+AEYAAAAAc3EAfgBldXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB0eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGl0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjnNxAH4AWABxAH4AIXVxAH4AWwAAAABzcQB+AIF0AARVbml0cQB+AId1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB0eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW5xAH4AL3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AglsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AaXNxAH4AgXQABUFycmF5cQB+AId1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AgXQABlN0cmluZ3NxAH4AhXNxAH4AiHVxAH4AiwAAAANzcQB+AI10AARqYXZhc3EAfgCNdAAEbGFuZ3EAfgCSc3EAfgBldXEAfgCpAAAABHNxAH4AgXQAA0FwcHEAfgCHc3EAfgCBdAALRGVsYXllZEluaXRxAH4Ah3NxAH4AgXQABk9iamVjdHEAfgCtc3EAfgCBdAADQW55cQB+AId1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAlsb2c0anRlc3RzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVivg8svdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMC9wcml2YXRlL3RtcC9sb2c0anRlc3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLeBACIUTqXbq8ADHa+BPG0TUCxC
+external apis:
+0 items
+source infos:
+1 items
+/private/tmp/log4jtest/src/main/scala/log4j/Log4j.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWK+C02F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMC9wcml2YXRlL3RtcC9sb2c0anRlc3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWK+Dyy91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMC9wcml2YXRlL3RtcC9sb2c0anRlc3QvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
